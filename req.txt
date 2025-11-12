@@ -1,0 +1,22 @@
+# Core scientific libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+tqdm
+
+# Optional: model evaluation and explainability
+scikit-plot
+lime
+
+# File handling
+h5py
+
+# For compatibility with pretrained CNN models
+tensorflow-hub
